@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Celestia",
+    "symbol": "TIA",
+    "price": 0.693914,
+    "change24h": 17.49
+  },
+  {
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "price": 1.15,
+    "change24h": 5.84
+  },
+  {
+    "name": "Injective",
+    "symbol": "INJ",
+    "price": 8.68,
+    "change24h": 5.11
+  },
+  {
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "price": 1.17,
+    "change24h": 4.37
+  },
+  {
+    "name": "Aptos",
+    "symbol": "APT",
+    "price": 0.848003,
+    "change24h": 3.6
+  },
+  {
+    "name": "Algorand",
+    "symbol": "ALGO",
+    "price": 0.115474,
+    "change24h": 1.22
+  },
+  {
+    "name": "JUST",
+    "symbol": "JST",
+    "price": 0.135663,
+    "change24h": 1.15
+  },
+  {
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "price": 0.194153,
+    "change24h": 1.12
+  },
+  {
+    "name": "Bitway",
+    "symbol": "BTW",
+    "price": 1.88,
+    "change24h": 0.97
+  },
+  {
+    "name": "TRON",
+    "symbol": "TRX",
+    "price": 0.334314,
+    "change24h": 0.91
+  },
+  {
+    "name": "Mantle",
+    "symbol": "MNT",
+    "price": 0.534381,
+    "change24h": 0.9
+  },
+  {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "price": 10.05,
+    "change24h": 0.85
+  },
+  {
+    "name": "Monero",
+    "symbol": "XMR",
+    "price": 551.29,
+    "change24h": 0.82
+  },
+  {
+    "name": "Figure Heloc",
+    "symbol": "FIGR_HELOC",
+    "price": 1.035,
+    "change24h": 0.75
+  },
+  {
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "price": 0.502999,
+    "change24h": 0.65
+  },
+  {
+    "name": "Pi Network",
+    "symbol": "PI",
+    "price": 0.080101,
+    "change24h": 0.52
+  },
+  {
+    "name": "HTX DAO",
+    "symbol": "HTX",
+    "price": 0.00000165,
+    "change24h": 0.51
+  },
+  {
+    "name": "Kaspa",
+    "symbol": "KAS",
+    "price": 0.03630774,
+    "change24h": 0.38
+  },
+  {
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "price": 277.4,
+    "change24h": 0.34
+  },
+  {
+    "name": "Lighter",
+    "symbol": "LIT",
+    "price": 3.11,
+    "change24h": 0.25
+  },
+  {
+    "name": "Tether Gold",
+    "symbol": "XAUT",
+    "price": 4156.61,
+    "change24h": 0.22
+  },
+  {
+    "name": "Open USD",
+    "symbol": "OUSD",
+    "price": 0.999107,
+    "change24h": 0.15
+  },
+  {
+    "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+    "symbol": "EURSAFO",
+    "price": 1.14,
+    "change24h": 0.14
+  },
+  {
+    "name": "PAX Gold",
+    "symbol": "PAXG",
+    "price": 4158.44,
+    "change24h": 0.14
+  },
+  {
+    "name": "Dai",
+    "symbol": "DAI",
+    "price": 1,
+    "change24h": 0.04
+  },
+  {
+    "name": "Ondo US Dollar Yield",
+    "symbol": "USDY",
+    "price": 1.15,
+    "change24h": 0.04
+  },
+  {
+    "name": "Circle USYC",
+    "symbol": "USYC",
+    "price": 1.14,
+    "change24h": 0.03
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "price": 0.999802,
+    "change24h": 0.02
+  },
+  {
+    "name": "Falcon USD",
+    "symbol": "USDF",
+    "price": 0.995067,
+    "change24h": 0.02
+  },
+  {
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "price": 1,
+    "change24h": 0.02
+  },
+  {
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "price": 0.999801,
+    "change24h": 0.02
+  },
+  {
+    "name": "LEO Token",
+    "symbol": "LEO",
+    "price": 9.04,
+    "change24h": 0.02
+  },
+  {
+    "name": "USDGO",
+    "symbol": "USDGO",
+    "price": 1,
+    "change24h": 0.01
+  },
+  {
+    "name": "Invesco Short Duration US Government Securities Fund",
+    "symbol": "USTB",
+    "price": 11.25,
+    "change24h": 0.01
+  },
+  {
+    "name": "United Stables",
+    "symbol": "U",
+    "price": 0.999387,
+    "change24h": 0.01
+  },
+  {
+    "name": "Tether",
+    "symbol": "USDT",
+    "price": 0.99918,
+    "change24h": 0
+  },
+  {
+    "name": "Ripple USD",
+    "symbol": "RLUSD",
+    "price": 1,
+    "change24h": 0
+  },
+  {
+    "name": "Ethena USDe",
+    "symbol": "USDE",
+    "price": 0.999323,
+    "change24h": 0
+  }
+]
